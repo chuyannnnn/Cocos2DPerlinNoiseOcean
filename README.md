@@ -19,7 +19,7 @@ This project is created using *cocos2d-x 3.4*.  Please include dependency librar
 This project supports iOS and Android
 
 ### iOS Project
-Path: `proj.ios_mac/Cocos2DDynamicBokeh.xcodeproj/project.pbxproj`
+Path: `proj.ios_mac/Cocos2DPerlinNoiseOcean.xcodeproj`
 
 ### Android Build
 Path: `proj.android/build_native.py`
