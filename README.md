@@ -11,7 +11,7 @@ As this is done with a simple mesh and a simple shader, performance cost is rela
 
 ## Cocos2D-x Version
 
-This project is created using *cocos2d-x 3.4*.  Please include dependency library accordingly.  
+This project is created using *cocos2d-x 3.4*.  Please place the `cocos2d-x library` in the `root` of the project and rename it to `cocos2d` when compile. 
 
 
 ## Platform Support
